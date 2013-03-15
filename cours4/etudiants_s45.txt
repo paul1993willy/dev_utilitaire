@@ -1,0 +1,9 @@
+bzchadi:x:4236:845:Bou-Zeidan Chadi:/ehome/bzchadi:/bin/bash
+croudny:x:4235:845:Chatelain Roudny:/ehome/croudny:/bin/bash
+gxavier:x:4258:845:Godard Xavier:/ehome/gxavier:/bin/bash
+gcharles:x:4246:845:Goulet Charles-Philippe:/ehome/gcharles:/bin/bash
+ltjean-p:x:4234:845:Leblond-Turcotte Jean-Philippe:/ehome/ltjean-p:/bin/bash
+pjoanie:x:4244:845:Perron Joanie:/ehome/pjoanie:/bin/bash
+rsaba:x:4343:845:Robert Saba:/ehome/rsaba:/bin/bash
+psimard:x:1003:845:Philippe Simard:/ehome/psimard:/bin/bash
+ygeorges:x:4269:845:Youssef Georges:/ehome/ygeorges:/bin/bash

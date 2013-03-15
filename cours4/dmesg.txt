@@ -1,0 +1,1014 @@
+hub.c: already running port 1 disabled by hub (EMI?), re-enabling...
+usb.c: USB disconnect on device 00:0b.0-1 address 52
+hub.c: connect-debounce failed, port 1 disabled
+hub.c: new USB device 00:0b.0-1, assigned address 53
+WARNING: USB Mass Storage data integrity not assured
+USB Mass Storage device found at 53
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 53 rqt 128 rq 6 len 18 ret -110
+usb.c: USB disconnect on device 00:0b.0-1 address 53
+hub.c: new USB device 00:0b.0-1, assigned address 54
+WARNING: USB Mass Storage data integrity not assured
+USB Mass Storage device found at 54
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usbdevfs: USBDEVFS_CONTROL failed dev 54 rqt 128 rq 6 len 18 ret -110
+usb.c: USB disconnect on device 00:0b.0-1 address 54
+hub.c: new USB device 00:0b.0-1, assigned address 55
+WARNING: USB Mass Storage data integrity not assured
+USB Mass Storage device found at 55
+scsi singledevice 1 0 0 1
+scsi singledevice 1 0 0 2
+scsi singledevice 1 0 0 3
+scsi singledevice 1 0 0 4
+scsi singledevice 1 0 0 5
+scsi singledevice 1 0 0 6
+sdb: Unit Not Ready, sense:
+Info fld=0xa00 (nonstd), Current 00:00: sns = 70  2
+Raw sense data:0x70 0x00 0x02 0x00 0x00 0x0a 0x00 0x00 
+sdb : READ CAPACITY failed.
+sdb : status = 1, message = 00, host = 0, driver = 08 
+Info fld=0xa00 (nonstd), Current sd00:00: sns = 70  2
+Raw sense data:0x70 0x00 0x02 0x00 0x00 0x0a 0x00 0x00 
+sdb : block size assumed to be 512 bytes, disk size 1GB.  
+sdb: test WP failed, assume Write Enabled
+ sdb: I/O error: dev 08:10, sector 0
+ I/O error: dev 08:10, sector 0
+ unable to read partition table
+ I/O error: dev 08:10, sector 0
+usb.c: USB disconnect on device 00:0b.0-1 address 55
+hub.c: new USB device 00:0b.0-1, assigned address 56
+WARNING: USB Mass Storage data integrity not assured
+USB Mass Storage device found at 56
+scsi singledevice 1 0 0 1
+scsi singledevice 1 0 0 2
+scsi singledevice 1 0 0 3
+scsi singledevice 1 0 0 4
+scsi singledevice 1 0 0 5
+scsi singledevice 1 0 0 6
+sdb: Unit Not Ready, sense:
+Info fld=0xa00 (nonstd), Current 00:00: sns = 70  2
+Raw sense data:0x70 0x00 0x02 0x00 0x00 0x0a 0x00 0x00 
+sdb : READ CAPACITY failed.
+sdb : status = 1, message = 00, host = 0, driver = 08 
+Info fld=0xa00 (nonstd), Current sd00:00: sns = 70  2
+Raw sense data:0x70 0x00 0x02 0x00 0x00 0x0a 0x00 0x00 
+sdb : block size assumed to be 512 bytes, disk size 1GB.  
+sdb: test WP failed, assume Write Enabled
+ sdb: I/O error: dev 08:10, sector 0
+ I/O error: dev 08:10, sector 0
+ unable to read partition table
+ I/O error: dev 08:10, sector 0
+Linux version 2.6.22.18-ariel-x305 (root@ariel) (gcc version 3.3.5 (Debian 1:3.3.5-13)) #1 Mon Feb 11 10:47:47 EST 2008
+BIOS-provided physical RAM map:
+ BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)
+ BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+ BIOS-e820: 0000000000100000 - 000000003ffd0000 (usable)
+ BIOS-e820: 000000003ffd0000 - 000000003ffe0000 (reserved)
+ BIOS-e820: 000000003ffe0000 - 000000003ffe8000 (ACPI data)
+ BIOS-e820: 000000003ffe8000 - 000000003fff0000 (ACPI NVS)
+ BIOS-e820: 000000003fff0000 - 0000000040000000 (reserved)
+ BIOS-e820: 00000000fec00000 - 0000000100000000 (reserved)
+Warning only 896MB will be used.
+Use a HIGHMEM enabled kernel.
+896MB LOWMEM available.
+Entering add_active_range(0, 0, 229376) 0 entries of 256 used
+Zone PFN ranges:
+  DMA             0 ->     4096
+  Normal       4096 ->   229376
+early_node_map[1] active PFN ranges
+    0:        0 ->   229376
+On node 0 totalpages: 229376
+  DMA zone: 32 pages used for memmap
+  DMA zone: 0 pages reserved
+  DMA zone: 4064 pages, LIFO batch:0
+  Normal zone: 1760 pages used for memmap
+  Normal zone: 223520 pages, LIFO batch:31
+DMI 2.3 present.
+Allocating PCI resources starting at 50000000 (gap: 40000000:bec00000)
+Built 1 zonelists.  Total pages: 227584
+Kernel command line: auto BOOT_IMAGE=Linux ro root=302
+Enabling fast FPU save and restore... done.
+Enabling unmasked SIMD FPU exception support... done.
+Initializing CPU#0
+PID hash table entries: 4096 (order: 12, 16384 bytes)
+Detected 2399.384 MHz processor.
+Console: colour VGA+ 80x25
+Dentry cache hash table entries: 131072 (order: 7, 524288 bytes)
+Inode-cache hash table entries: 65536 (order: 6, 262144 bytes)
+Memory: 904552k/917504k available (2969k kernel code, 12472k reserved, 1031k data, 148k init, 0k highmem)
+virtual kernel memory layout:
+    fixmap  : 0xffffd000 - 0xfffff000   (   8 kB)
+    vmalloc : 0xf8800000 - 0xffffb000   ( 119 MB)
+    lowmem  : 0xc0000000 - 0xf8000000   ( 896 MB)
+      .init : 0xc04ec000 - 0xc0511000   ( 148 kB)
+      .data : 0xc03e676e - 0xc04e8398   (1031 kB)
+      .text : 0xc0100000 - 0xc03e676e   (2969 kB)
+Checking if this processor honours the WP bit even in supervisor mode... Ok.
+Calibrating delay using timer specific routine.. 4802.21 BogoMIPS (lpj=9604434)
+Security Framework v1.0.0 initialized
+Capability LSM initialized
+Mount-cache hash table entries: 512
+CPU: After generic identify, caps: bfebfbff 00000000 00000000 00000000 00000400 00000000 00000000
+CPU: Trace cache: 12K uops, L1 D cache: 8K
+CPU: L2 cache: 512K
+CPU: After all inits, caps: bfebfbff 00000000 00000000 0000b080 00000400 00000000 00000000
+Intel machine check architecture supported.
+Intel machine check reporting enabled on CPU#0.
+CPU0: Intel P4/Xeon Extended MCE MSRs (12) available
+Compat vDSO mapped to ffffe000.
+CPU: Intel(R) Pentium(R) 4 CPU 2.40GHz stepping 07
+Checking 'hlt' instruction... OK.
+NET: Registered protocol family 16
+PCI: PCI BIOS revision 2.10 entry at 0xf0220, last bus=2
+PCI: Using configuration type 1
+Setting up standard PCI resources
+Linux Plug and Play Support v0.97 (c) Adam Belay
+Generic PHY: Registered new driver
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+PCI: Probing PCI hardware
+PCI: Probing PCI hardware (bus 00)
+PCI: Discovered peer bus 01
+PCI: Firmware left 0000:01:02.0 e100 interrupts enabled, disabling
+PCI: Discovered peer bus 02
+NET: Registered protocol family 2
+Time: tsc clocksource has been installed.
+IP route cache hash table entries: 32768 (order: 5, 131072 bytes)
+TCP established hash table entries: 131072 (order: 8, 1048576 bytes)
+TCP bind hash table entries: 65536 (order: 6, 262144 bytes)
+TCP: Hash tables configured (established 131072 bind 65536)
+TCP reno registered
+Machine check exception polling timer started.
+IA-32 Microcode Update Driver: v1.14a <tigran@aivazian.fsnet.co.uk>
+audit: initializing netlink socket (disabled)
+audit(1202737973.184:1): initialized
+VFS: Disk quotas dquot_6.5.1
+Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Installing knfsd (copyright (C) 1996 okir@monad.swb.de).
+fuse init (API version 7.8)
+JFS: nTxBlock = 7067, nTxLock = 56540
+SGI XFS with large block numbers, no debug enabled
+io scheduler noop registered
+io scheduler anticipatory registered (default)
+io scheduler deadline registered
+io scheduler cfq registered
+Boot video device is 0000:00:03.0
+isapnp: Scanning for PnP cards...
+isapnp: No Plug & Play device found
+Generic RTC Driver v1.07
+Serial: 8250/16550 driver $Revision: 1.90 $ 4 ports, IRQ sharing disabled
+serial8250: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+Floppy drive(s): fd0 is 1.44M
+FDC 0 is a National Semiconductor PC87306
+tg3.c:v3.77 (May 31, 2007)
+eth0: Tigon3 [partno(BCM95703A30) rev 1002 PHY(5703)] (PCIX:100MHz:64-bit) 10/100/1000Base-T Ethernet 00:02:55:b7:df:ef
+eth0: RXcsums[1] LinkChgREG[0] MIirq[0] ASF[0] WireSpeed[1] TSOcap[1]
+eth0: dma_rwctrl[769c4000] dma_mask[64-bit]
+eth1: Tigon3 [partno(BCM95703A30) rev 1002 PHY(5703)] (PCIX:100MHz:64-bit) 10/100/1000Base-T Ethernet 00:02:55:b7:df:f0
+eth1: RXcsums[1] LinkChgREG[0] MIirq[0] ASF[0] WireSpeed[1] TSOcap[1]
+eth1: dma_rwctrl[769c4000] dma_mask[64-bit]
+Broadcom BCM5411: Registered new driver
+Broadcom BCM5421: Registered new driver
+Broadcom BCM5461: Registered new driver
+netconsole: not configured, aborting
+Uniform Multi-Platform E-IDE driver Revision: 7.00alpha2
+ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+SvrWks CSB5: IDE controller at PCI slot 0000:00:0f.1
+SvrWks CSB5: chipset revision 147
+SvrWks CSB5: not 100% native mode: will probe irqs later
+    ide0: BM-DMA at 0x3400-0x3407, BIOS settings: hda:DMA, hdb:DMA
+    ide1: BM-DMA at 0x3408-0x340f, BIOS settings: hdc:DMA, hdd:pio
+Probing IDE interface ide0...
+hda: IC35L060AVV207-0, ATA DISK drive
+hdb: CD-224E, ATAPI CD/DVD-ROM drive
+hda: selected mode 0x45
+hdb: selected mode 0x42
+ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Probing IDE interface ide1...
+hdc: SAMSUNG SV0221H, ATA DISK drive
+hdc: selected mode 0x45
+ide1 at 0x170-0x177,0x376 on irq 15
+hda: max request size: 512KiB
+hda: 78156288 sectors (40016 MB) w/1821KiB Cache, CHS=16383/255/63, UDMA(100)
+hda: cache flushes supported
+ hda: hda1 hda2 hda3 hda4 < hda5 hda6 hda7 hda8 >
+hdc: max request size: 128KiB
+hdc: 39179952 sectors (20060 MB) w/2048KiB Cache, CHS=38869/16/63, UDMA(100)
+hdc: cache flushes supported
+ hdc: hdc1
+hdb: ATAPI 24X CD-ROM drive, 128kB Cache, UDMA(33)
+Uniform CD-ROM driver Revision: 3.20
+ohci_hcd: 2006 August 04 USB 1.1 'Open' Host Controller (OHCI) Driver
+ohci_hcd 0000:00:0f.2: OHCI Host Controller
+ohci_hcd 0000:00:0f.2: new USB bus registered, assigned bus number 1
+ohci_hcd 0000:00:0f.2: irq 10, io mem 0xeddff000
+usb usb1: configuration #1 chosen from 1 choice
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+PNP: No PS/2 controller found. Probing ports directly.
+serio: i8042 KBD port at 0x60,0x64 irq 1
+serio: i8042 AUX port at 0x60,0x64 irq 12
+mice: PS/2 mouse device common for all mice
+input: AT Translated Set 2 keyboard as /class/input/input0
+padlock: VIA PadLock not detected.
+usbcore: registered new interface driver hiddev
+usbcore: registered new interface driver usbhid
+drivers/hid/usbhid/hid-core.c: v2.6:USB HID core driver
+Netfilter messages via NETLINK v0.30.
+nf_conntrack version 0.5.0 (7168 buckets, 57344 max)
+ip_tables: (C) 2000-2006 Netfilter Core Team
+TCP cubic registered
+Initializing XFRM netlink socket
+NET: Registered protocol family 1
+NET: Registered protocol family 17
+NET: Registered protocol family 15
+Using IPI Shortcut mode
+input: ImExPS/2 Generic Explorer Mouse as /class/input/input1
+kjournald starting.  Commit interval 5 seconds
+EXT3-fs: mounted filesystem with ordered data mode.
+VFS: Mounted root (ext3 filesystem) readonly.
+Freeing unused kernel memory: 148k freed
+Adding 489972k swap on /dev/hda3.  Priority:-1 extents:1 across:489972k
+EXT3 FS on hda2, internal journal
+eepro100.c:v1.09j-t 9/29/99 Donald Becker
+eepro100.c: $Revision: 1.36 $ 2000/11/17 Modified by Andrey V. Savochkin <saw@saw.sw.com.sg> and others
+eth2: OEM i82557/i82558 10/100 Ethernet, 00:07:E9:13:2D:0E, IRQ 3.
+  Board assembly a29355-004, Physical connectors present: RJ45
+  Primary interface chip i82555 PHY #1.
+  General self-test: passed.
+  Serial sub-system self-test: passed.
+  Internal registers self-test: passed.
+  ROM checksum self-test: passed (0x3258698e).
+kjournald starting.  Commit interval 5 seconds
+EXT3 FS on hda1, internal journal
+EXT3-fs: mounted filesystem with ordered data mode.
+kjournald starting.  Commit interval 5 seconds
+EXT3 FS on hda5, internal journal
+EXT3-fs: mounted filesystem with ordered data mode.
+kjournald starting.  Commit interval 5 seconds
+EXT3 FS on hda6, internal journal
+EXT3-fs: mounted filesystem with ordered data mode.
+kjournald starting.  Commit interval 5 seconds
+EXT3 FS on hda7, internal journal
+EXT3-fs: mounted filesystem with ordered data mode.
+kjournald starting.  Commit interval 5 seconds
+EXT3 FS on hda8, internal journal
+EXT3-fs: mounted filesystem with ordered data mode.
+kjournald starting.  Commit interval 5 seconds
+EXT3 FS on hdc1, internal journal
+EXT3-fs: mounted filesystem with ordered data mode.
+PM: Writing back config space on device 0000:02:04.0 at offset b (was 164714e4, writing 26f1014)
+PM: Writing back config space on device 0000:02:04.0 at offset 3 (was 4000, writing 4008)
+PM: Writing back config space on device 0000:02:04.0 at offset 2 (was 2000000, writing 2000002)
+PM: Writing back config space on device 0000:02:04.0 at offset 1 (was 2b00000, writing 2b00146)
+PM: Writing back config space on device 0000:02:04.0 at offset 0 (was 164714e4, writing 16a714e4)
+tg3: eth0: Link is up at 1000 Mbps, full duplex.
+tg3: eth0: Flow control is off for TX and off for RX.
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=13000 PROTO=UDP SPT=36877 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=22999 PROTO=UDP SPT=39765 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=23000 PROTO=UDP SPT=39765 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=23001 PROTO=UDP SPT=39765 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=37281 PROTO=UDP SPT=40557 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=37282 PROTO=UDP SPT=40557 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=37283 PROTO=UDP SPT=40557 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=1665 PROTO=UDP SPT=36884 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=1666 PROTO=UDP SPT=36884 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=1667 PROTO=UDP SPT=36884 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=14394 PROTO=UDP SPT=39828 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=14395 PROTO=UDP SPT=39828 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=14396 PROTO=UDP SPT=39828 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=89.149.236.158 DST=205.236.45.110 LEN=44 TOS=0x00 PREC=0x00 TTL=48 ID=0 DF PROTO=TCP SPT=80 DPT=38165 WINDOW=5840 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.25.91 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=30273 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.167 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=49563 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.167 DST=205.236.45.110 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=49563 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.167 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=49563 DPT=1027 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=190.66.209.123 DST=205.236.45.110 LEN=60 TOS=0x00 PREC=0x00 TTL=50 ID=59504 DF PROTO=TCP SPT=2371 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=190.66.209.123 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=50 ID=30658 DF PROTO=TCP SPT=2372 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=34608 PROTO=UDP SPT=40640 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=34609 PROTO=UDP SPT=40640 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=34610 PROTO=UDP SPT=40640 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=55716 PROTO=UDP SPT=36887 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=55717 PROTO=UDP SPT=36887 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=55718 PROTO=UDP SPT=36887 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=62.140.22.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=101 ID=256 PROTO=TCP SPT=6000 DPT=8080 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=62.140.22.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=101 ID=256 PROTO=TCP SPT=6000 DPT=8080 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=5760 PROTO=UDP SPT=39895 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=5761 PROTO=UDP SPT=39895 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=5762 PROTO=UDP SPT=39895 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.173 DST=205.236.45.110 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=56071 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=162.84.126.241 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=110 ID=10420 DF PROTO=TCP SPT=61460 DPT=59066 WINDOW=64240 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=162.84.126.241 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=110 ID=10422 DF PROTO=TCP SPT=61460 DPT=59066 WINDOW=64240 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=162.84.126.241 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=110 ID=10424 DF PROTO=TCP SPT=61460 DPT=59066 WINDOW=64240 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=31207 PROTO=UDP SPT=40734 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=31208 PROTO=UDP SPT=40734 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=31209 PROTO=UDP SPT=40734 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=44056 PROTO=UDP SPT=36898 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=44057 PROTO=UDP SPT=36898 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=44058 PROTO=UDP SPT=36898 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.166 DST=205.236.45.110 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=58789 DPT=1027 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.166 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=58789 DPT=1027 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=62063 PROTO=UDP SPT=39978 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=62064 PROTO=UDP SPT=39978 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=62065 PROTO=UDP SPT=39978 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=207.46.92.17 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=46 ID=43393 DF PROTO=TCP SPT=55308 DPT=80 WINDOW=65535 RES=0x00 ACK FIN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=27495 PROTO=UDP SPT=40824 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=27496 PROTO=UDP SPT=40824 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=27497 PROTO=UDP SPT=40824 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=31833 PROTO=UDP SPT=36908 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=31834 PROTO=UDP SPT=36908 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=31835 PROTO=UDP SPT=36908 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=221.239.82.82 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=43 ID=48303 DF PROTO=TCP SPT=4499 DPT=21 WINDOW=32120 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=221.239.82.82 DST=205.236.45.110 LEN=60 TOS=0x00 PREC=0x00 TTL=43 ID=48302 DF PROTO=TCP SPT=4498 DPT=21 WINDOW=32120 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=52501 PROTO=UDP SPT=40043 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=52502 PROTO=UDP SPT=40043 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=52503 PROTO=UDP SPT=40043 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.169 DST=205.236.45.110 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=52651 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.169 DST=205.236.45.110 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=52651 DPT=1027 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.169 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=52651 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=95.211.64.153 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=112 ID=747 PROTO=TCP SPT=6042 DPT=1024 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.25.91 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=24762 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23156 PROTO=UDP SPT=40915 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23157 PROTO=UDP SPT=40915 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23158 PROTO=UDP SPT=40915 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=19255 PROTO=UDP SPT=36915 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=19256 PROTO=UDP SPT=36915 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=19257 PROTO=UDP SPT=36915 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=42490 PROTO=UDP SPT=40130 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=42491 PROTO=UDP SPT=40130 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=42492 PROTO=UDP SPT=40130 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.216 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=110 ID=6544 DF PROTO=TCP SPT=21580 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=77.253.193.29 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=815 DF PROTO=TCP SPT=2198 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=18650 PROTO=UDP SPT=41022 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=18651 PROTO=UDP SPT=41022 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=18652 PROTO=UDP SPT=41022 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=5758 PROTO=UDP SPT=36922 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=5759 PROTO=UDP SPT=36922 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=5760 PROTO=UDP SPT=36922 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=32201 PROTO=UDP SPT=40218 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=32202 PROTO=UDP SPT=40218 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=32203 PROTO=UDP SPT=40218 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.165 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=110 ID=6058 DF PROTO=TCP SPT=61617 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=1080 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=1080 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=3128 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=3128 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=444 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=444 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=444 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=80 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8000 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8000 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=14056 PROTO=UDP SPT=41137 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=14057 PROTO=UDP SPT=41137 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=14058 PROTO=UDP SPT=41137 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8080 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8088 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8088 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=9000 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=9000 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=9090 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=57907 PROTO=UDP SPT=36931 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=57908 PROTO=UDP SPT=36931 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=57909 PROTO=UDP SPT=36931 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=21883 PROTO=UDP SPT=40294 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=21884 PROTO=UDP SPT=40294 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=21885 PROTO=UDP SPT=40294 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=83.239.214.118 DST=205.236.45.110 LEN=56 TOS=0x00 PREC=0x00 TTL=45 ID=9373 PROTO=TCP SPT=4994 DPT=23 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=83.239.214.118 DST=205.236.45.111 LEN=56 TOS=0x00 PREC=0x00 TTL=45 ID=28112 PROTO=TCP SPT=4995 DPT=23 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=8736 PROTO=UDP SPT=41257 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=8737 PROTO=UDP SPT=41257 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=8738 PROTO=UDP SPT=41257 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=44188 PROTO=UDP SPT=36935 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=44189 PROTO=UDP SPT=36935 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=44190 PROTO=UDP SPT=36935 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=11324 PROTO=UDP SPT=40376 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=11325 PROTO=UDP SPT=40376 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=11326 PROTO=UDP SPT=40376 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=200.180.30.170 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=107 ID=256 PROTO=TCP SPT=6000 DPT=8080 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=200.180.30.170 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=105 ID=256 PROTO=TCP SPT=6000 DPT=8080 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.203 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=109 ID=194 DF PROTO=TCP SPT=45354 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=91.199.212.132 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=52 ID=56253 DF PROTO=TCP SPT=40196 DPT=443 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=200.123.133.83 DST=205.236.45.110 LEN=119 TOS=0x00 PREC=0x00 TTL=108 ID=41795 PROTO=UDP SPT=1078 DPT=45415 LEN=99 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=3399 PROTO=UDP SPT=41371 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=3400 PROTO=UDP SPT=41371 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=3401 PROTO=UDP SPT=41371 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=30515 PROTO=UDP SPT=36943 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=30516 PROTO=UDP SPT=36943 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=30517 PROTO=UDP SPT=36943 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.206.25.150 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=94 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.206.25.150 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=94 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=649 PROTO=UDP SPT=40452 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=650 PROTO=UDP SPT=40452 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=651 PROTO=UDP SPT=40452 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=212.57.243.55 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=7347 DF PROTO=TCP SPT=44094 DPT=3389 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=212.57.243.55 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=7357 DF PROTO=TCP SPT=44095 DPT=3389 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=212.57.243.55 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=7440 DF PROTO=TCP SPT=44094 DPT=3389 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=212.57.243.55 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=7443 DF PROTO=TCP SPT=44095 DPT=3389 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=212.57.243.55 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=7535 DF PROTO=TCP SPT=44094 DPT=3389 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=212.57.243.55 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=7541 DF PROTO=TCP SPT=44095 DPT=3389 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=63912 PROTO=UDP SPT=41496 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=63913 PROTO=UDP SPT=41496 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=63914 PROTO=UDP SPT=41496 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=16731 PROTO=UDP SPT=36950 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=16732 PROTO=UDP SPT=36950 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=16733 PROTO=UDP SPT=36950 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.60 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=15525 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.60 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=10705 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=55440 PROTO=UDP SPT=40518 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=55441 PROTO=UDP SPT=40518 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=55442 PROTO=UDP SPT=40518 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.60 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=14868 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.60 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=15874 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=189.110.204.124 DST=205.236.45.110 LEN=90 TOS=0x00 PREC=0x00 TTL=111 ID=29022 PROTO=UDP SPT=1116 DPT=65333 LEN=70 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=58468 PROTO=UDP SPT=41606 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=58469 PROTO=UDP SPT=41606 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=58470 PROTO=UDP SPT=41606 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=2724 PROTO=UDP SPT=36958 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=2725 PROTO=UDP SPT=36958 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=2726 PROTO=UDP SPT=36958 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=80.179.98.81 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=107 ID=8130 DF PROTO=TCP SPT=20774 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=80.179.98.81 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=107 ID=10418 DF PROTO=TCP SPT=20827 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.92.155 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=6992 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=43991 PROTO=UDP SPT=40609 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=43992 PROTO=UDP SPT=40609 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=43993 PROTO=UDP SPT=40609 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=53099 PROTO=UDP SPT=41718 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=53100 PROTO=UDP SPT=41718 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=53101 PROTO=UDP SPT=41718 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=53993 PROTO=UDP SPT=36969 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=53994 PROTO=UDP SPT=36969 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=53995 PROTO=UDP SPT=36969 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=32989 PROTO=UDP SPT=40688 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=32990 PROTO=UDP SPT=40688 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=32991 PROTO=UDP SPT=40688 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=80.179.98.81 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=107 ID=45665 DF PROTO=TCP SPT=17430 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=80.179.98.81 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=107 ID=47961 DF PROTO=TCP SPT=17454 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=47092 PROTO=UDP SPT=41841 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=47093 PROTO=UDP SPT=41841 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=47094 PROTO=UDP SPT=41841 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.92.155 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=2767 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=39505 PROTO=UDP SPT=36977 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=39506 PROTO=UDP SPT=36977 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=39507 PROTO=UDP SPT=36977 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=21748 PROTO=UDP SPT=40760 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=21749 PROTO=UDP SPT=40760 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=21750 PROTO=UDP SPT=40760 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=72.233.10.64 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=112 ID=25272 PROTO=TCP SPT=46754 DPT=10000 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=72.233.10.64 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=24873 PROTO=TCP SPT=46754 DPT=10000 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.161.13.44 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=108 ID=63810 PROTO=TCP SPT=30097 DPT=80 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=41195 PROTO=UDP SPT=41967 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=41196 PROTO=UDP SPT=41967 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=41197 PROTO=UDP SPT=41967 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=25576 PROTO=UDP SPT=36985 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=25577 PROTO=UDP SPT=36985 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=25578 PROTO=UDP SPT=36985 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=10913 PROTO=UDP SPT=40829 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=10914 PROTO=UDP SPT=40829 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=10915 PROTO=UDP SPT=40829 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.92.155 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=24402 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=116.71.81.111 DST=205.236.45.111 LEN=56 TOS=0x00 PREC=0x00 TTL=45 ID=60660 DF PROTO=TCP SPT=3021 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=89.149.236.169 DST=205.236.45.110 LEN=44 TOS=0x00 PREC=0x00 TTL=49 ID=0 DF PROTO=TCP SPT=80 DPT=3929 WINDOW=5840 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=71.185.4.184 DST=205.236.45.110 LEN=60 TOS=0x00 PREC=0x00 TTL=47 ID=30014 DF PROTO=TCP SPT=4848 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=71.185.4.184 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=47 ID=52410 DF PROTO=TCP SPT=4849 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.157 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=110 ID=1377 DF PROTO=TCP SPT=13883 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=35096 PROTO=UDP SPT=42095 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=35097 PROTO=UDP SPT=42095 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=35098 PROTO=UDP SPT=42095 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=11381 PROTO=UDP SPT=36997 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=11382 PROTO=UDP SPT=36997 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=11383 PROTO=UDP SPT=36997 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=4 PROTO=UDP SPT=40906 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=5 PROTO=UDP SPT=40906 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=6 PROTO=UDP SPT=40906 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=29143 PROTO=UDP SPT=42202 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=29144 PROTO=UDP SPT=42202 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=29145 PROTO=UDP SPT=42202 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=62974 PROTO=UDP SPT=36999 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=62975 PROTO=UDP SPT=36999 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=62976 PROTO=UDP SPT=36999 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=62.117.85.84 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=115 ID=52557 PROTO=UDP SPT=2452 DPT=65333 LEN=28 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=54964 PROTO=UDP SPT=40967 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=54965 PROTO=UDP SPT=40967 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=54966 PROTO=UDP SPT=40967 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=98.175.174.188 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=32319 DF PROTO=TCP SPT=6845 DPT=54148 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=98.175.174.188 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=32320 DF PROTO=TCP SPT=6851 DPT=54148 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=98.175.174.188 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=32322 DF PROTO=TCP SPT=6853 DPT=54148 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.92.155 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=2431 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23801 PROTO=UDP SPT=42305 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23802 PROTO=UDP SPT=42305 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23803 PROTO=UDP SPT=42305 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=49146 PROTO=UDP SPT=37005 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=49147 PROTO=UDP SPT=37005 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=49148 PROTO=UDP SPT=37005 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=79.124.215.84 DST=205.236.45.111 LEN=139 TOS=0x00 PREC=0x00 TTL=112 ID=17584 PROTO=UDP SPT=1223 DPT=13813 LEN=119 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=44556 PROTO=UDP SPT=41020 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=44557 PROTO=UDP SPT=41020 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=44558 PROTO=UDP SPT=41020 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=61.129.51.108 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=15462 PROTO=TCP SPT=80 DPT=3072 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=18189 PROTO=UDP SPT=42402 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=18190 PROTO=UDP SPT=42402 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=18191 PROTO=UDP SPT=42402 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=122.11.55.131 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=95 ID=256 PROTO=TCP SPT=6000 DPT=3306 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=122.11.55.131 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=95 ID=256 PROTO=TCP SPT=6000 DPT=3306 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=35554 PROTO=UDP SPT=37009 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=35555 PROTO=UDP SPT=37009 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=35556 PROTO=UDP SPT=37009 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=34344 PROTO=UDP SPT=41081 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=34345 PROTO=UDP SPT=41081 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=34346 PROTO=UDP SPT=41081 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=13125 PROTO=UDP SPT=42515 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=13126 PROTO=UDP SPT=42515 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=13127 PROTO=UDP SPT=42515 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=22042 PROTO=UDP SPT=37014 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=22043 PROTO=UDP SPT=37014 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=22044 PROTO=UDP SPT=37014 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.60 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=6186 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=24187 PROTO=UDP SPT=41143 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=24188 PROTO=UDP SPT=41143 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=24189 PROTO=UDP SPT=41143 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=24.98.109.144 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=42 ID=17420 DF PROTO=TCP SPT=43929 DPT=80 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.92.155 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=13578 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.92.155 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=15421 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.171 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=34480 DPT=1027 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=8183 PROTO=UDP SPT=42597 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=8184 PROTO=UDP SPT=42597 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=8185 PROTO=UDP SPT=42597 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=122.224.9.109 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=235 ID=21439 DF PROTO=TCP SPT=7001 DPT=862 WINDOW=65535 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=8629 PROTO=UDP SPT=37017 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=8630 PROTO=UDP SPT=37017 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=8631 PROTO=UDP SPT=37017 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=13724 PROTO=UDP SPT=41208 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=13725 PROTO=UDP SPT=41208 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=13726 PROTO=UDP SPT=41208 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=2945 PROTO=UDP SPT=42682 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=2946 PROTO=UDP SPT=42682 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=2947 PROTO=UDP SPT=42682 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=60906 PROTO=UDP SPT=37023 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=60907 PROTO=UDP SPT=37023 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=60908 PROTO=UDP SPT=37023 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=3374 PROTO=UDP SPT=41260 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=3375 PROTO=UDP SPT=41260 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=3376 PROTO=UDP SPT=41260 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.60 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=3479 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=1080 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=1080 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.30.216.3 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=112 ID=19283 DF PROTO=TCP SPT=2651 DPT=4899 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.30.216.3 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=112 ID=19286 DF PROTO=TCP SPT=2662 DPT=4899 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.30.216.3 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=112 ID=19842 DF PROTO=TCP SPT=2651 DPT=4899 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.30.216.3 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=112 ID=19844 DF PROTO=TCP SPT=2662 DPT=4899 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.30.216.3 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=112 ID=20240 DF PROTO=TCP SPT=2651 DPT=4899 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.30.216.3 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=112 ID=20241 DF PROTO=TCP SPT=2662 DPT=4899 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=3128 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=3128 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=444 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=444 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=444 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=80 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8000 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8000 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8088 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=8088 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=9090 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=9090 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=70.80.73.240 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=117 ID=15452 DF PROTO=TCP SPT=1453 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=63711 PROTO=UDP SPT=42755 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=63712 PROTO=UDP SPT=42755 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=63713 PROTO=UDP SPT=42755 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=86.55.8.6 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=39 ID=3439 DF PROTO=TCP SPT=113 DPT=3072 WINDOW=65535 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=47749 PROTO=UDP SPT=37030 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=47750 PROTO=UDP SPT=37030 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=47751 PROTO=UDP SPT=37030 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.186.12.46 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=8080 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.186.12.46 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=8080 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=58758 PROTO=UDP SPT=41314 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=58759 PROTO=UDP SPT=41314 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=58760 PROTO=UDP SPT=41314 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.92.155 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=13773 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=58946 PROTO=UDP SPT=42838 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=58947 PROTO=UDP SPT=42838 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=58948 PROTO=UDP SPT=42838 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=34774 PROTO=UDP SPT=37031 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=34775 PROTO=UDP SPT=37031 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=34776 PROTO=UDP SPT=37031 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.170 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=60082 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.170 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=60082 DPT=1027 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.170 DST=205.236.45.110 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=60082 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=49066 PROTO=UDP SPT=41382 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=49067 PROTO=UDP SPT=41382 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=49068 PROTO=UDP SPT=41382 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37349 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37568 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37569 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37570 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37571 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37572 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37573 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37574 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37575 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37576 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37577 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37578 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37579 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37580 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37581 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37582 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37583 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37584 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37585 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37587 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37588 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37589 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37590 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37591 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=60 TOS=0x00 PREC=0x00 TTL=113 ID=37592 DF PROTO=TCP SPT=32319 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37593 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37594 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37595 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37596 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37597 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37598 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37599 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=142.41.247.11 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=113 ID=37600 DF PROTO=TCP SPT=32318 DPT=80 WINDOW=65535 RES=0x00 ACK URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=174.143.235.223 DST=205.236.45.111 LEN=44 TOS=0x00 PREC=0x00 TTL=48 ID=0 DF PROTO=TCP SPT=80 DPT=53627 WINDOW=5840 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=53902 PROTO=UDP SPT=42924 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=53903 PROTO=UDP SPT=42924 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=53904 PROTO=UDP SPT=42924 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=21842 PROTO=UDP SPT=37035 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=21843 PROTO=UDP SPT=37035 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=21844 PROTO=UDP SPT=37035 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=39621 PROTO=UDP SPT=41442 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=39622 PROTO=UDP SPT=41442 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=39623 PROTO=UDP SPT=41442 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.169 DST=205.236.45.110 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=40652 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.169 DST=205.236.45.110 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=40652 DPT=1027 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.169 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=40652 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.169 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=40652 DPT=1027 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=49004 PROTO=UDP SPT=43010 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=49005 PROTO=UDP SPT=43010 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=49006 PROTO=UDP SPT=43010 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=8997 PROTO=UDP SPT=37042 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=8998 PROTO=UDP SPT=37042 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=8999 PROTO=UDP SPT=37042 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=29912 PROTO=UDP SPT=41489 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=29913 PROTO=UDP SPT=41489 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=29914 PROTO=UDP SPT=41489 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=74.63.82.75 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=117 ID=14299 PROTO=TCP SPT=80 DPT=2374 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=189.120.36.122 DST=205.236.45.111 LEN=62 TOS=0x00 PREC=0x00 TTL=111 ID=38762 PROTO=UDP SPT=1128 DPT=13813 LEN=42 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=69.156.1.63 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=243 ID=23877 DF PROTO=TCP SPT=1086 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=44097 PROTO=UDP SPT=43091 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=44098 PROTO=UDP SPT=43091 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=44099 PROTO=UDP SPT=43091 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.46.68 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=10822 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=61885 PROTO=UDP SPT=37045 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=61886 PROTO=UDP SPT=37045 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=61887 PROTO=UDP SPT=37045 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=20559 PROTO=UDP SPT=41543 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=20560 PROTO=UDP SPT=41543 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=20561 PROTO=UDP SPT=41543 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.73.207.218 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=101 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.73.207.218 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=101 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.11.12.228 DST=205.236.45.111 LEN=58 TOS=0x00 PREC=0x00 TTL=107 ID=8530 PROTO=UDP SPT=1340 DPT=59642 LEN=38 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=39570 PROTO=UDP SPT=43165 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=39571 PROTO=UDP SPT=43165 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=39572 PROTO=UDP SPT=43165 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=49365 PROTO=UDP SPT=37048 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=49366 PROTO=UDP SPT=37048 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=49367 PROTO=UDP SPT=37048 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=174.143.235.226 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=48 ID=0 DF PROTO=TCP SPT=24874 DPT=29935 WINDOW=0 RES=0x00 RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=212.87.244.2 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=106 ID=15457 PROTO=UDP SPT=1427 DPT=45415 LEN=28 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=11221 PROTO=UDP SPT=41594 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=11222 PROTO=UDP SPT=41594 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=11223 PROTO=UDP SPT=41594 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.46.68 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=25018 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.46.68 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=4683 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=83.71.162.9 DST=205.236.45.110 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=1362 DF PROTO=TCP SPT=2675 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=83.71.162.9 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=54863 DF PROTO=TCP SPT=2676 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=35689 PROTO=UDP SPT=43241 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=35690 PROTO=UDP SPT=43241 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=35691 PROTO=UDP SPT=43241 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=201.215.234.147 DST=205.236.45.111 LEN=137 TOS=0x00 PREC=0x00 TTL=111 ID=51741 PROTO=UDP SPT=1346 DPT=59642 LEN=117 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=37025 PROTO=UDP SPT=37051 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=37026 PROTO=UDP SPT=37051 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=37027 PROTO=UDP SPT=37051 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=1896 PROTO=UDP SPT=41654 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=1897 PROTO=UDP SPT=41654 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=1898 PROTO=UDP SPT=41654 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=31843 PROTO=UDP SPT=43313 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=31844 PROTO=UDP SPT=43313 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=31845 PROTO=UDP SPT=43313 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.21 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=14906 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=25050 PROTO=UDP SPT=37058 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=25051 PROTO=UDP SPT=37058 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=25052 PROTO=UDP SPT=37058 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=58175 PROTO=UDP SPT=41703 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=58176 PROTO=UDP SPT=41703 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=58177 PROTO=UDP SPT=41703 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=27643 PROTO=UDP SPT=43373 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=27644 PROTO=UDP SPT=43373 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=27645 PROTO=UDP SPT=43373 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=13007 PROTO=UDP SPT=37060 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=13008 PROTO=UDP SPT=37060 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=13009 PROTO=UDP SPT=37060 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=12.169.153.110 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=46 ID=59917 PROTO=TCP SPT=53 DPT=26413 WINDOW=1400 RES=0x00 RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=48796 PROTO=UDP SPT=41757 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=48797 PROTO=UDP SPT=41757 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=48798 PROTO=UDP SPT=41757 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=90.61.175.45 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=113 ID=48155 DF PROTO=TCP SPT=2474 DPT=80 WINDOW=65473 RES=0x00 ACK FIN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23598 PROTO=UDP SPT=43456 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23599 PROTO=UDP SPT=43456 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=23600 PROTO=UDP SPT=43456 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=982 PROTO=UDP SPT=37064 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=983 PROTO=UDP SPT=37064 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=984 PROTO=UDP SPT=37064 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=39244 PROTO=UDP SPT=41803 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=39245 PROTO=UDP SPT=41803 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=39246 PROTO=UDP SPT=41803 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=122.224.137.58 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=8081 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=122.224.137.58 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=8081 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=19563 PROTO=UDP SPT=43522 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=19564 PROTO=UDP SPT=43522 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=19565 PROTO=UDP SPT=43522 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=201.74.148.17 DST=205.236.45.110 LEN=105 TOS=0x00 PREC=0x00 TTL=104 ID=32868 PROTO=UDP SPT=1145 DPT=65333 LEN=85 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=54022 PROTO=UDP SPT=37066 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=54023 PROTO=UDP SPT=37066 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=54024 PROTO=UDP SPT=37066 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=29525 PROTO=UDP SPT=41854 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=29526 PROTO=UDP SPT=41854 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=29527 PROTO=UDP SPT=41854 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.25.45 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=24008 PROTO=TCP SPT=80 DPT=9472 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=15140 PROTO=UDP SPT=43591 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=15141 PROTO=UDP SPT=43591 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=66.238.93.161 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=47 ID=15142 PROTO=UDP SPT=43591 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=41956 PROTO=UDP SPT=37070 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=41957 PROTO=UDP SPT=37070 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.72.249.201 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=42 ID=41958 PROTO=UDP SPT=37070 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=19750 PROTO=UDP SPT=41905 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=19751 PROTO=UDP SPT=41905 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=213.61.92.192 DST=205.236.45.109 LEN=45 TOS=0x00 PREC=0x00 TTL=53 ID=19752 PROTO=UDP SPT=41905 DPT=53 LEN=25 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=121.100.157.39 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=97 ID=21720 PROTO=TCP SPT=6000 DPT=53 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=121.100.157.39 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=96 ID=21721 PROTO=TCP SPT=6000 DPT=53 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=121.100.157.39 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=97 ID=21719 PROTO=TCP SPT=6000 DPT=53 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=74.12.213.221 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=242 ID=10322 DF PROTO=TCP SPT=1090 DPT=22 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=190.24.238.83 DST=205.236.45.110 LEN=60 TOS=0x00 PREC=0x00 TTL=45 ID=58892 DF PROTO=TCP SPT=4605 DPT=23 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=190.24.238.83 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=45 ID=39903 DF PROTO=TCP SPT=4606 DPT=23 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=211.140.163.250 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=6737 PROTO=TCP SPT=80 DPT=46302 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.91.21 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=4438 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.91.21 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=13898 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=205.151.7.210 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=127 ID=1556 DF PROTO=TCP SPT=2152 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=70.53.255.187 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=242 ID=18981 DF PROTO=TCP SPT=7287 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=70.53.255.187 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=242 ID=18982 DF PROTO=TCP SPT=7286 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=70.53.255.187 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=242 ID=18983 DF PROTO=TCP SPT=7285 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=70.53.255.187 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=242 ID=18984 DF PROTO=TCP SPT=7288 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=77.44.17.39 DST=205.236.45.110 LEN=60 TOS=0x00 PREC=0x00 TTL=47 ID=63184 DF PROTO=TCP SPT=3138 DPT=23 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=77.44.17.39 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=47 ID=62270 DF PROTO=TCP SPT=3139 DPT=23 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=114.127.246.36 DST=205.236.45.109 LEN=52 TOS=0x00 PREC=0x00 TTL=52 ID=53362 PROTO=TCP SPT=63842 DPT=80 WINDOW=294 RES=0x00 ACK FIN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=89.203.96.99 DST=205.236.45.110 LEN=60 TOS=0x00 PREC=0x00 TTL=49 ID=46410 DF PROTO=TCP SPT=4857 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=89.203.96.99 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=49 ID=49566 DF PROTO=TCP SPT=4858 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=71.16.17.34 DST=205.236.45.110 LEN=60 TOS=0x00 PREC=0x00 TTL=43 ID=33953 DF PROTO=TCP SPT=45324 DPT=21 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=71.16.17.34 DST=205.236.45.111 LEN=60 TOS=0x00 PREC=0x00 TTL=43 ID=23409 DF PROTO=TCP SPT=45325 DPT=21 WINDOW=5840 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.145.244.226 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=43 ID=0 DF PROTO=TCP SPT=46633 DPT=26002 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.21 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=22352 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.93.21 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=3302 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.145.244.226 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=44 ID=0 DF PROTO=TCP SPT=13979 DPT=5691 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.15.177.171 DST=205.236.45.111 LEN=622 TOS=0x00 PREC=0x00 TTL=42 ID=0 DF PROTO=UDP SPT=33176 DPT=1026 LEN=602 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=218.10.241.197 DST=205.236.45.111 LEN=67 TOS=0x00 PREC=0x00 TTL=105 ID=18109 PROTO=UDP SPT=6877 DPT=59642 LEN=47 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.145.244.226 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=44 ID=0 DF PROTO=TCP SPT=42424 DPT=19883 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=61.129.51.108 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=771 PROTO=TCP SPT=80 DPT=3072 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=208.53.130.68 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=117 ID=16589 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.145.244.226 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=43 ID=0 DF PROTO=TCP SPT=12061 DPT=7323 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.204.203.177 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=111 ID=39759 DF PROTO=TCP SPT=3589 DPT=25 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.204.203.177 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=111 ID=39760 DF PROTO=TCP SPT=3590 DPT=25 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=9000 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.153.66.61 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=108 ID=256 DF PROTO=TCP SPT=12200 DPT=9000 WINDOW=8192 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.145.244.226 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=43 ID=0 DF PROTO=TCP SPT=29379 DPT=33291 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=74.57.194.71 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=116 ID=4493 DF PROTO=TCP SPT=62595 DPT=80 WINDOW=4410 RES=0x00 ACK FIN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=96.20.150.93 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=117 ID=49038 DF PROTO=TCP SPT=2773 DPT=80 WINDOW=65087 RES=0x00 ACK FIN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=96.20.150.93 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=117 ID=49163 DF PROTO=TCP SPT=2782 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.20.195.64 DST=205.236.45.111 LEN=111 TOS=0x00 PREC=0x00 TTL=106 ID=27182 PROTO=UDP SPT=1038 DPT=13813 LEN=91 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.145.244.226 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=43 ID=0 DF PROTO=TCP SPT=8174 DPT=56966 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.218 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=111 ID=2224 DF PROTO=TCP SPT=38431 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=74.63.82.76 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=117 ID=27802 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=60.160.147.88 DST=205.236.45.111 LEN=58 TOS=0x00 PREC=0x00 TTL=108 ID=19452 PROTO=UDP SPT=15471 DPT=23994 LEN=38 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=67.66.197.140 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=19103 DF PROTO=TCP SPT=4649 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=67.66.197.140 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=19104 DF PROTO=TCP SPT=4654 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=67.66.197.140 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=19265 DF PROTO=TCP SPT=4654 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=67.66.197.140 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=19278 DF PROTO=TCP SPT=4649 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=67.66.197.140 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=19301 DF PROTO=TCP SPT=4654 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=67.66.197.140 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=19304 DF PROTO=TCP SPT=4649 DPT=5900 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=174.143.235.226 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=48 ID=0 DF PROTO=TCP SPT=29964 DPT=35741 WINDOW=0 RES=0x00 RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=219.145.244.226 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=44 ID=0 DF PROTO=TCP SPT=16512 DPT=28368 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=125.89.79.173 DST=205.236.45.111 LEN=44 TOS=0x00 PREC=0x00 TTL=45 ID=0 DF PROTO=TCP SPT=80 DPT=1024 WINDOW=5840 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=206.253.190.42 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=110 ID=14836 PROTO=TCP SPT=47676 DPT=80 WINDOW=65535 RES=0x00 ACK FIN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=174.143.235.226 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=48 ID=0 DF PROTO=TCP SPT=22783 DPT=1831 WINDOW=0 RES=0x00 RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=89.149.236.246 DST=205.236.45.111 LEN=44 TOS=0x00 PREC=0x00 TTL=49 ID=0 DF PROTO=TCP SPT=80 DPT=27838 WINDOW=5840 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.160 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=111 ID=29007 DF PROTO=TCP SPT=17464 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.215 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=110 ID=15666 DF PROTO=TCP SPT=3888 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=95.58.11.168 DST=205.236.45.110 LEN=52 TOS=0x00 PREC=0x00 TTL=109 ID=31521 PROTO=UDP SPT=2117 DPT=53851 LEN=32 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=114.58.218.10 DST=205.236.45.111 LEN=62 TOS=0x00 PREC=0x00 TTL=110 ID=19606 PROTO=UDP SPT=1259 DPT=13813 LEN=42 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=89.149.236.30 DST=205.236.45.110 LEN=44 TOS=0x00 PREC=0x00 TTL=48 ID=0 DF PROTO=TCP SPT=80 DPT=11952 WINDOW=5840 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.150.221.67 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=57321 DF PROTO=TCP SPT=2792 DPT=3389 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.150.221.67 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=57322 DF PROTO=TCP SPT=2793 DPT=3389 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.150.221.67 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=57437 DF PROTO=TCP SPT=2793 DPT=3389 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.150.221.67 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=57439 DF PROTO=TCP SPT=2792 DPT=3389 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.150.221.67 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=57612 DF PROTO=TCP SPT=2792 DPT=3389 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=203.150.221.67 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=113 ID=57615 DF PROTO=TCP SPT=2793 DPT=3389 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=121.100.157.39 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=97 ID=32847 PROTO=TCP SPT=6000 DPT=53 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=121.100.157.39 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=96 ID=32848 PROTO=TCP SPT=6000 DPT=53 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=121.100.157.39 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=97 ID=32846 PROTO=TCP SPT=6000 DPT=53 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=61.129.51.108 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=109 ID=2436 PROTO=TCP SPT=80 DPT=3072 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=89.149.236.25 DST=205.236.45.109 LEN=44 TOS=0x00 PREC=0x00 TTL=48 ID=0 DF PROTO=TCP SPT=80 DPT=36824 WINDOW=5840 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=76.73.25.45 DST=205.236.45.109 LEN=48 TOS=0x00 PREC=0x00 TTL=116 ID=31125 PROTO=TCP SPT=80 DPT=45600 WINDOW=16384 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.129.250.178 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=100 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=116.71.41.159 DST=205.236.45.110 LEN=56 TOS=0x00 PREC=0x00 TTL=45 ID=37667 DF PROTO=TCP SPT=2831 DPT=23 WINDOW=5808 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.181 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=111 ID=12621 DF PROTO=TCP SPT=14083 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=121.141.220.22 DST=205.236.45.111 LEN=52 TOS=0x00 PREC=0x00 TTL=106 ID=62557 PROTO=UDP SPT=1059 DPT=13813 LEN=32 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=89.149.236.14 DST=205.236.45.110 LEN=48 TOS=0x00 PREC=0x00 TTL=49 ID=34731 DF PROTO=TCP SPT=80 DPT=14122 WINDOW=65535 RES=0x00 ACK SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=69.156.1.63 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=243 ID=12322 DF PROTO=TCP SPT=1254 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=118.123.5.105 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=118.123.5.105 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=65.55.106.231 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=110 ID=22191 DF PROTO=TCP SPT=42858 DPT=80 WINDOW=0 RES=0x00 ACK RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=85.88.132.148 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=104 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.201.155.27 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=108 ID=3573 DF PROTO=TCP SPT=3514 DPT=17725 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.201.155.27 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=108 ID=3575 DF PROTO=TCP SPT=3514 DPT=17725 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=123.201.155.27 DST=205.236.45.111 LEN=48 TOS=0x00 PREC=0x00 TTL=108 ID=3576 DF PROTO=TCP SPT=3514 DPT=17725 WINDOW=65535 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=206.167.65.241 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=59 ID=12350 DF PROTO=TCP SPT=33889 DPT=80 WINDOW=65535 RES=0x00 RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=206.167.65.241 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=59 ID=47396 DF PROTO=TCP SPT=34435 DPT=80 WINDOW=64269 RES=0x00 RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=206.167.65.241 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=59 ID=61664 DF PROTO=TCP SPT=34716 DPT=80 WINDOW=65535 RES=0x00 RST URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=24.203.204.216 DST=205.236.45.109 LEN=40 TOS=0x00 PREC=0x00 TTL=117 ID=43877 DF PROTO=TCP SPT=2994 DPT=80 WINDOW=65110 RES=0x00 ACK FIN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.111 LEN=40 TOS=0x00 PREC=0x00 TTL=99 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=222.91.99.163 DST=205.236.45.110 LEN=40 TOS=0x00 PREC=0x00 TTL=98 ID=256 PROTO=TCP SPT=6000 DPT=2967 WINDOW=16384 RES=0x00 SYN URGP=0 
+FWLOG_DROP IN=eth0 OUT= MAC=00:02:55:b7:df:ef:00:0d:28:c5:b5:80:08:00 SRC=193.27.0.64 DST=205.236.45.111 LEN=62 TOS=0x00 PREC=0x00 TTL=110 ID=24678 PROTO=UDP SPT=1073 DPT=13813 LEN=42 
