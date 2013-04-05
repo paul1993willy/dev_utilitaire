@@ -8,3 +8,8 @@
 #
 ################################################################################
 
+# Affiche un message d'erreur aucun fichier ne peut être lu
+if [[ $# != 1 || ! -r $1 ]]; then
+	echo "Usage : $0 FICHIER_A_LIRE";
+	exit
+fi
