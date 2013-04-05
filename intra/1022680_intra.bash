@@ -7,9 +7,9 @@ if [[ $# != 2 ]]; then
 fi
 
 declare -r SEPARATEUR_EXTENTION='.';
+declare -i compteur
 repertoire_source=$1;
 prefixe=$2;
-compteur=1;
 
 # S'assurce que le répertoire source soit un répertoire sur lequel
 # l'utilisateur a des droits de lecture
@@ -21,5 +21,5 @@ fi
 for fichier in $(ls -1 $repertoire_source); do
 	tableau_fichier=($(echo $fichier | sed "s/\./ /" ));
 	mv $repertoire_source/$fichier $repertoire_source/$prefixe$compteur$SEPARATEUR_EXTENTION${tableau_fichier[1]};
-	echo $compteur;
+	compteur+=1;
 done;
