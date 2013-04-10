@@ -8,8 +8,13 @@
 #
 ################################################################################
 
-# Affiche un message d'erreur aucun fichier ne peut être lu
+# Affiche un message d'erreur si aucun fichier ne peut être lu
 if [[ $# != 1 || ! -r $1 ]]; then
 	echo "Usage : $0 FICHIER_A_LIRE";
 	exit
 fi
+
+while read ligne; do
+	typeset -l ligne;
+	
+done > comptes.txt
