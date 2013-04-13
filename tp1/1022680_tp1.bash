@@ -8,13 +8,13 @@
 #
 ################################################################################
 
+echo "\"hello\""
 # Affiche un message d'erreur si aucun fichier ne peut être lu
-if [[ $# != 1 || ! -r $1 ]]; then
-	echo "Usage : $0 FICHIER_A_LIRE";
+if [[ $# != 2 || ! -r $2 ]]; then
+	echo "Usage : $0 NOM_DU_GROUPE FICHIER_A_LIRE";
 	exit
 fi
 
 while read ligne; do
 	typeset -l ligne;
-	
 done > comptes.txt
