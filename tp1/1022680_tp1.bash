@@ -28,5 +28,10 @@ fichier=$2;
 declare -l ligne;
 
 while read ligne; do
-	typeset -l ligne;
-done > comptes.txt
+	# Retire tous les accents de la ligne lue
+	$ligne=\"$(echo $ligne | iconv -f utf8 -t ascii//TRANSLIT)\";
+
+	# Place la ligne dans un tableau
+	compte=(${ligne});
+	echo "${compte[*]}";
+done < $fichier
