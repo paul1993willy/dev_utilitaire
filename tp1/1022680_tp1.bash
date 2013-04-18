@@ -28,10 +28,10 @@ fichier=$2;
 declare -l ligne;
 
 while read ligne; do
-	# Retire tous les accents de la ligne lue
-	$ligne=\"$(echo $ligne | iconv -f utf8 -t ascii//TRANSLIT)\";
+	# Traduction des virgules en underscore et retrait des accents
+	ligne=$(echo ${ligne//,/_} | iconv -f utf8 -t ascii//TRANSLIT);
 
-	# Place la ligne dans un tableau
-	compte=(${ligne});
-	echo "${compte[*]}";
+	# Place la ligne dans un tableau et retraduction des underscore en virgules
+	compte=(${ligne//_/,});
+	echo ${compte[0]};
 done < $fichier
