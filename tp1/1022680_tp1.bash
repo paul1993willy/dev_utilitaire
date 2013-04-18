@@ -33,5 +33,4 @@ while read ligne; do
 
 	# Place la ligne dans un tableau et retraduction des underscore en virgules
 	compte=(${ligne//_/,});
-	echo ${compte[0]};
 done < $fichier
