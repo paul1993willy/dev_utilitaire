@@ -14,8 +14,10 @@ if [[ $# != 2 || ! -r $2 ]]; then
 	exit
 fi
 
+#
 # Rend mes variables de groupe et de fichier plus facile à identifier et me
 # d'un set mal placé
+#
 groupe=$1;
 fichier=$2;
 
@@ -31,7 +33,9 @@ while read ligne; do
 	char_nom_famille=5;
 	char_prenom=2;
 
-	# Pour choisir un nom d'utilisateur
+	#
+    #	Pour choisir un nom d'utilisateur
+	#
 	while true; do
 	#while [[ $(id $user 2> /dev/null | wc -l) == 0 ]]; do
 		# Trouve un nom au compte utilisateur
@@ -48,7 +52,4 @@ while read ligne; do
 			break;
 		fi
 	done
-
-
-
 done < $fichier
