@@ -8,6 +8,29 @@
 #
 ################################################################################
 
+function strip_accent ()
+{
+	# Retrait des accents et des espaces
+	ligne=$(echo ${ligne// /} | iconv -f utf8 -t ascii//TRANSLIT);
+
+	#
+	# Test
+	#
+	# echo $ligne
+}
+
+function couper_ligne ()
+{
+	# Place la ligne dans un tableau
+	compte=($(echo ${ligne} | cut --fields="1-" --delimiter="," --output-delimiter=" "));
+
+	#
+	# Test
+	#
+	# IFS=";"$IFS
+	# echo "${compte[*]}"
+}
+
 # Affiche un message d'erreur si aucun fichier ne peut être lu
 if [[ $# != 2 || ! -r $2 ]]; then
 	echo "Usage : $0 NOM_DU_GROUPE FICHIER_A_LIRE";
@@ -24,12 +47,8 @@ fichier=$2;
 declare -l ligne;
 
 while read ligne; do
-	# Retrait des accents et des espaces
-	ligne=$(echo ${ligne// /} | iconv -f utf8 -t ascii//TRANSLIT);
-
-	# Place la ligne dans un tableau
-	compte=($(echo ${ligne} | cut --fields="1-" --delimiter="," --output-delimiter=" "));
-
+	strip_accent;
+	couper_ligne;
 	char_nom_famille=5;
 	char_prenom=2;
 
