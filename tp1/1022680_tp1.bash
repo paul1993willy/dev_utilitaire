@@ -38,7 +38,7 @@ if [[ $# != 2 || ! -r $2 ]]; then
 fi
 
 #
-# Rend mes variables de groupe et de fichier plus facile à identifier et me
+# Rend mes variables de groupe et de fichier plus facile à identifier et me protege
 # d'un set mal placé
 #
 groupe=$1;
