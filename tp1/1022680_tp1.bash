@@ -68,17 +68,8 @@ while read ligne; do
 		echo $char_nom_famille
 	fi
 
-		# Ajoute un caractère au nom d'utilisateur jusqu'à ce qu'il soit unique
-		if [[ $((${#compte[1]} - 1)) > $char_nom_famille ]]; then
-			echo "Je suis ${compte[1]}, un nom de famille, j'ai ${#compte[1]} caracteres et suis coupe a $char_nom_famille";
-			((char_nom_famille++));
-		elif [[ $((${#compte[0]} - 1)) > $char_prenom ]]; then
-			echo "Je suis ${compte[0]}, un prenom, j'ai ${#compte[2]} caracteres et suis coupe a $char_prenom";
-			((char_prenom++));
-		else
-			echo "Je suis ${compte[*]} On a expire ma longueur totale";
-			break;
-		fi
-	done
+	# Trouve un nom au compte utilisateur
+	user="${compte[2]:0:$char_prenom}${compte[1]:0:$char_nom_famille}"
+	echo $user
 done < $fichier
 
