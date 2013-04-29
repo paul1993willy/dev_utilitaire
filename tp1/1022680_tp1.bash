@@ -52,13 +52,21 @@ while read ligne; do
 	char_nom_famille=5;
 	char_prenom=2;
 
-	#
-    #	Pour choisir un nom d'utilisateur
-	#
-	while true; do
-	#while [[ $(id $user 2> /dev/null | wc -l) == 0 ]]; do
-		# Trouve un nom au compte utilisateur
-		user="${compte[2]:0:$char_prenom}${compte[1]:0:$char_nom_famille}"
+	# Reduit le nombre de caracteres de l'offset s'il est plus long que la chaine
+	if [[ ${#compte[2]} < $char_prenom ]]; then
+		char_prenom=${#compte[2]}
+		echo -n "${#compte[2]};"
+		echo -n "${compte[2]};"
+		echo $char_prenom
+	fi
+
+	# Reduit le nombre de caracteres de l'offset s'il est plus long que la chaine
+	if [[ ${#compte[1]} < $char_nom_famille ]]; then
+		char_nom_famille=${#compte[1]}
+		echo -n "${#compte[1]};"
+		echo -n "${compte[1]};"
+		echo $char_nom_famille
+	fi
 
 		# Ajoute un caractère au nom d'utilisateur jusqu'à ce qu'il soit unique
 		if [[ $((${#compte[1]} - 1)) > $char_nom_famille ]]; then
