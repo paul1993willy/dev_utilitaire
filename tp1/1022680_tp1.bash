@@ -11,12 +11,12 @@
 function strip_accent ()
 {
 	# Retrait des accents et des espaces
-	ligne=$(echo ${ligne// /} | iconv -f utf8 -t ascii//TRANSLIT);
+	ligne=$(echo ${ligne//\ /} | iconv -f utf8 -t ascii//TRANSLIT)
 
 	#
 	# Test
 	#
-	# echo $ligne
+	# echo ${ligne}
 }
 
 function couper_ligne ()
