@@ -1,0 +1,4 @@
+# essayons pour voir
+# $date$
+*.bash	filter=date
+.gitattributes filter=date
