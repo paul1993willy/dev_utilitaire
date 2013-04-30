@@ -55,21 +55,21 @@ while read ligne; do
 	# Reduit le nombre de caracteres de l'offset s'il est plus long que la chaine
 	if [[ ${#compte[2]} < $char_prenom ]]; then
 		char_prenom=${#compte[2]}
-		echo -n "${#compte[2]};"
-		echo -n "${compte[2]};"
-		echo $char_prenom
+		# echo -e "${#compte[2]}\v${compte[2]}"
+		# echo -n "${compte[2]};"
+		# echo "$char_prenom"
 	fi
 
 	# Reduit le nombre de caracteres de l'offset s'il est plus long que la chaine
 	if [[ ${#compte[1]} < $char_nom_famille ]]; then
 		char_nom_famille=${#compte[1]}
-		echo -n "${#compte[1]};"
-		echo -n "${compte[1]};"
-		echo $char_nom_famille
+		# echo -n "${#compte[1]};"
+		# echo -n "${compte[1]};"
+		# echo "$char_nom_famille'
 	fi
 
 	# Trouve un nom au compte utilisateur
 	user="${compte[2]:0:$char_prenom}${compte[1]:0:$char_nom_famille}"
-	echo $user
+	# echo $user
 done < $fichier
 
