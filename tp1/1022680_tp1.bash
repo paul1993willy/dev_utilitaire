@@ -53,6 +53,12 @@ while read ligne; do
 
 	# Trouve un nom au compte utilisateur
 	user="${compte[2]:0:$char_prenom}${compte[1]:0:$char_nom_famille}"
-	# echo $user
+	useradd --comment '${compte}' --gid ${groupe} --create-home --home ${groupe}/${user} --no-user-group 
+	mot_de_passe=$(echo ${user} | sha1sum) && mot_de_passe=${mot_de_passe:0:8}
+	echo ${mot_de_passe} | passwd --expire ${user}
+	id ${user} > /dev/null 2>&1
+	if [[ $? == 0 ]]; then
+		echo "Votre compte a été créé. Votre nom d'utilisateur est ${user} et votre mot de passe est ${mot_de_passe}. Vous aurez à le changer à votre première connexion." | mail -s 'Votre compte a été créé.' ${user}
+	fi
 done < $fichier
 
