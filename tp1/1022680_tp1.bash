@@ -42,12 +42,12 @@ while read ligne; do
 	char_prenom=2;
 
 	# Reduit le nombre de caracteres de l'offset s'il est plus long que la chaine
-	if [[ ${#compte[2]} < $char_prenom ]]; then
+	if [[ ${#compte[2]} -lt $char_prenom ]]; then
 		char_prenom=${#compte[2]}
 	fi
 
 	# Reduit le nombre de caracteres de l'offset s'il est plus long que la chaine
-	if [[ ${#compte[1]} < $char_nom_famille ]]; then
+	if [[ ${#compte[1]} -lt $char_nom_famille ]]; then
 		char_nom_famille=${#compte[1]}
 	fi
 
